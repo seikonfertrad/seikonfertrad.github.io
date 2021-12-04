@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am excited about human civilization. Most of the time I think about inter- and intrapersonal dynamics. This website exists to collect my thoughts.
+I am excited about humans. Most of the time I think about inter- and intrapersonal dynamics. This website exists to collect my~~self~~.
 
 I used to be quite carefree until, at 18, I went vegan for the aesthetics and stumbled into the animal rights scene. From there on, it slowly dawned on me that I care a whole lot about life across species, space, and time. If humanity plays its cards right, we can fill the universe with incredible quantities of unfathomable experience. Our collective wisdom ought to catch up with our power to create and destroy.
 
