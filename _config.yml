@@ -13,7 +13,7 @@ name                     : &name "Konrad Seifert"
 description              : &description "Konrad's personal website"
 url                      : https://seikonfertrad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "seioknfertrad/seikonfertrad.github.io"
+repository               : "seikonfertrad/seikonfertrad.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -83,7 +83,7 @@ author:
   name             : "Konrad"
   avatar           : "PXL_20210314_115912949.jpg"
   bio              : "information processing unit"
-  location         : "Geneva"
+  location         : "Geneva, Switzerland"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ch/citations?user=EOZaTJ4AAAAJ&hl=en"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
