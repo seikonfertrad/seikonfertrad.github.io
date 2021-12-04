@@ -18,4 +18,4 @@ As of 2021: I'm trying to [improve international risk governance](https://simoni
 
 2016-2020: I built up the [Swiss effective altruism ecosystem](https://effectivealtruism.ch/).
 
-Before that, I failed to bullshit my way through an undergrad in international relations; grew up in various German cities, with a 1-year stint in Nashville, Tennessee; did competitive gymnastics and played games.
+Before that, I failed to bullshit my way through an undergrad in international relations; grew up in various German cities, with a 1-year stint in Tennessee, USA; did competitive gymnastics and played games.
