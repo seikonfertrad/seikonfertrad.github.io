@@ -84,7 +84,7 @@ author:
   avatar           : "PXL_20201125_142954282.PORTRAIT.jpg"
   bio              : "information processing unit"
   location         : "Geneva"
-  employer         : "https://simoninstitute.ch/"
+  employer         : "Simon Institute for Longterm Governance"
   pubmed           : 
   googlescholar    : "https://scholar.google.ch/citations?user=EOZaTJ4AAAAJ&hl=en"
   email            : 
@@ -102,7 +102,7 @@ author:
   instagram        : "https://www.instagram.com/seikonfertrad/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kfseifert/"
   orcid            : 
   pinterest        :
   soundcloud       : "https://soundcloud.com/konrad-seifert-1"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
