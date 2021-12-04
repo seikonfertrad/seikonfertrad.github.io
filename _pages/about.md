@@ -12,7 +12,7 @@ Just trying to understand.
 
 My professional energy is currently going into making sense of [long-term governance](https://simoninstitute.ch/).
 
-Before that, I spent four years building up the [Swiss community of aspiring effective altruists](https://effectivealtruism.ch/) - analyzing career paths, donation choices, moral philosophy, decision theory, game theory, and human psychology.
+Before that, I spent four years building up the [Swiss community of aspiring effective altruists](https://effectivealtruism.ch/) - analyzing career paths, donation choices, moral philosophy, decision theory, game theory, group rationality, and human psychology.
 
 Before that, I failed at getting excited about an undergrad program in international relations.
 
