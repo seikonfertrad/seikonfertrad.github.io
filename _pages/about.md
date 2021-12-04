@@ -10,9 +10,9 @@ redirect_from:
 
 I am excited about human civilization. Most of the time I think about inter- and intrapersonal dynamics. This website exists to collect my thoughts.
 
-I used to be quite carefree until I went vegan for selfish reasons at 18 and stumbled into the animal rights scene. From there on, it slowly dawned on me that I care a whole lot about life across species, space, and time. There is so much potential in the universe if humanity plays its cards right: incredible quantities of unfathomable experience. Our collective wisdom ought to catch up with our power to create and destroy.
+I used to be quite carefree until, at 18, I went vegan for the aesthetics and stumbled into the animal rights scene. From there on, it slowly dawned on me that I care a whole lot about life across species, space, and time. If humanity plays its cards right, we can fill the universe with incredible quantities of unfathomable experience. Our collective wisdom ought to catch up with our power to create and destroy.
 
-Despite uncertainties, I believe the future will probably be wonderful. Let's make that even more probable.
+Despite many uncertainties, I believe the future will probably be wonderful. Let's make that even more probable.
 
 As of 2021: I'm trying to [improve international risk governance](https://simoninstitute.ch/).
 
