@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am trying to understand. Anything.
+I am trying to understand.
 
-All of my professional energy is currently going into making sense of [long-term governance](https://simoninstitute.ch/).
+My professional energy is currently going into making sense of [long-term governance](https://simoninstitute.ch/).
 
 Before that, I spent four years building up the [Swiss community of aspiring effective altruists](https://effectivealtruism.ch/) - analyzing career paths, donation choices, moral philosophy, decision theory, game theory, and human psychology.
 
