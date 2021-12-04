@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "information processing unit"
+excerpt: "I'm an information processing unit"
 author_profile: true
 redirect_from: 
   - /about/
