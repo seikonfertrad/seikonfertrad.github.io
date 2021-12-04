@@ -16,6 +16,6 @@ Despite uncertainties, I believe the future will probably be wonderful. Let's ma
 
 As of 2021: I'm trying to [improve international risk governance](https://simoninstitute.ch/).
 
-2016-2020: I played a key role in building up the [Swiss effective altruism ecosystem](https://effectivealtruism.ch/).
+2016-2020: I built up the [Swiss effective altruism ecosystem](https://effectivealtruism.ch/).
 
 Before that, I failed to bullshit my way through an undergrad in international relations; grew up in various German cities, with a 1-year stint in Nashville, Tennessee; did competitive gymnastics and played games.
