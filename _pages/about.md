@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This website exists to increasingly collect my~~self~~. I'm excited about humanity and think a lot about inter- and intrapersonal dynamics.
+This website exists to increasingly collect my~~self~~. I'm excited about humanity getting its shit together and think a lot about inter- and intrapersonal dynamics.
 
 I used to be quite carefree until I went vegan for the aesthetics in 2013 and stumbled into the animal rights scene. From there on, it slowly dawned on me that I care a whole lot about life across species, space, and time. If humanity plays its cards right, we can fill the universe with unfathomably rich experience.
 
-Despite many uncertainties, I believe the future will probably be wonderful. Let's make that even more probable by ensuring our collective wisdom catches up with our powers to create and destroy.
+Despite uncertainties, I believe the future will probably be wonderful. Let's make that even more probable by ensuring our collective wisdom catches up with our powers to create and destroy.
 
 As of 2021: I'm trying to [improve international risk governance](https://simoninstitute.ch/).
 
-2017-2020: I built up the [Swiss effective altruism ecosystem](https://effectivealtruism.ch/).
+2016-2020: I built up the [Swiss effective altruism ecosystem](https://effectivealtruism.ch/).
 
-Before that, I failed to bullshit my way through an undergrad in international relations; grew up in various German cities, with a 1-year stint in Tennessee; did competitive gymnastics and played games.
+Before that, I failed to sustain motivation for an undergrad in international relations; was a snowboard instructor and au pair; grew up in various German cities, with a 1-year stint in Tennessee; did many sports and played games.
+
+I spend most of my free time with loved ones, exploring minds, pushing boundaries, lifting weights, mixing music, documenting reflections, and cooking.
