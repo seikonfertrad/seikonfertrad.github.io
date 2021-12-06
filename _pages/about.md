@@ -20,4 +20,4 @@ As of 2021: I'm trying to [improve international risk governance](https://simoni
 
 Before that, I failed to sustain motivation for an undergrad in international relations; was a snowboard instructor and au pair; grew up in various German cities, with a 1-year stint in Tennessee; did many sports and played games.
 
-I spend most of my free time with loved ones, exploring minds, exploring boundaries, lifting weights, mixing music, documenting reflections, and cooking.
+I spend most of my free time with loved ones, investigating minds, exploring boundaries, lifting weights, mixing music, documenting reflections, cooking, and dancing.
