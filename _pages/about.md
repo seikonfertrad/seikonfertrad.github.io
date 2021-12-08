@@ -20,7 +20,7 @@ Despite an urgent need to mitigate global catastrophic risks, I am extremely exc
 
 We've come quite far in very little time. The future will probably be wonderful. So let's make that even more probable. 
 
-As of 2021, I'm trying to [improve the governance of emerging technologies](https://simoninstitute.ch/).
+As of 2021, I'm trying to [improve international risk governance](https://simoninstitute.ch/).
 
 From 2016 to 2020, I built up the [Swiss effective altruism ecosystem](https://effectivealtruism.ch/).
 
