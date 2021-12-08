@@ -12,7 +12,9 @@ This website exists to increasingly collect my~~self~~.
 
 I care a lot about us humans getting our act together. If humanity plays its cards right, the universe will soon be buzzing with unfathomably rich experience(s).
 
-I was quite carefree until my last year of high school, when I went vegan for all the wrong reasons. Looking for recipes, I stumbled across moral philosophy. So it dawned on me that I deeply care about life across species, space, and time.
+I was quite ~~carefree~~a dick until my last year of high school, when I went vegan for all the wrong reasons. Looking for recipes, I rediscovered my compassion and how deeply I care about life across species, space, and time.
+
+Seeking friends with shared interests, I encountered the effective altruism network, in 2013.
 
 Despite unprecedented, man-made risks, I am excited about human civilization. We've already come far in very little time. 
 
