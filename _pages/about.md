@@ -14,13 +14,13 @@ I care a lot about us humans getting our act together. If humanity plays its car
 
 I was quite ~~carefree~~a dick until my last year of high school, when I went vegan for all the wrong reasons. Looking for recipes, I rediscovered my compassion and how deeply I care about life across species, space, and time.
 
-Seeking friends with shared interests, I encountered the effective altruism network, in 2013.
+Seeking friends with shared interests, I encountered Effective Altruism in 2013. Many rabbit holes later, I dedicated my career to future generations.
 
-Despite unprecedented, man-made risks, I am excited about human civilization. We've already come far in very little time. 
+Despite an urgent need to mitigate global catastrophic risks, I am extremely excited about civilization. 
 
-The future will probably be wonderful. Let's make that even more probable. 
+We've come quite far in very little time. The future will probably be wonderful. So let's make that even more probable. 
 
-As of 2021, I'm trying to [improve the governance of our powers to create and destroy](https://simoninstitute.ch/).
+As of 2021, I'm trying to [improve the governance of emerging technologies](https://simoninstitute.ch/).
 
 From 2016 to 2020, I built up the [Swiss effective altruism ecosystem](https://effectivealtruism.ch/).
 
