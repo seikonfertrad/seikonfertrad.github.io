@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-This website exists to increasingly collect my~~self~~. I'm excited about humans getting their act together and think a lot about inter- and intrapersonal dynamics.
+This website exists to increasingly collect my~~self~~. 
 
-I used to be quite carefree until I went vegan for the aesthetics in 2013 and stumbled into the animal rights scene. From there on, it slowly dawned on me that I care a whole lot about life across species, space, and time. And if humanity plays its cards right, the universe will be buzzing with unfathomably rich experiences.
+I care a lot about us humans getting our act together. If humanity plays its cards right, the universe will soon be buzzing with unfathomably rich experiences.
 
-Despite uncertainties, I think the future will probably be wonderful. Let's make that even more probable by ensuring our collective wisdom catches up with our powers to create and destroy.
+I was quite carefree until my last year of high school, when I went vegan for all the wrong reasons. Looking for recipes, I stumbled across moral philosophy. So it dawned on me that I deeply care about life across species, space, and time.
 
-As of 2021: I'm trying to [improve international risk governance](https://simoninstitute.ch/).
+Despite unprecedented, man-made risks, I am excited about human civilization. We've already come far in very little time. 
 
-2016-2020: I built up the [Swiss effective altruism ecosystem](https://effectivealtruism.ch/).
+The future will probably be wonderful. Let's make that even more probable. 
 
-Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as a snowboard instructor and au pair; grew up in various German cities, with a 1-year stint in Tennessee; did many sports and played games.
+As of 2021, I'm trying to [improve the governance of our powers to create and destroy](https://simoninstitute.ch/).
 
-I spend most of my free time with loved ones, investigating minds, exploring boundaries, lifting weights, mixing music, documenting reflections, cooking, scheming, and dancing.
+From 2016 to 2020, I built up the [Swiss effective altruism ecosystem](https://effectivealtruism.ch/).
+
+Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew up in Germany, with a 1-year stint in Tennessee; did many sports and played games.
+
+When not working, I spend my time with loved ones, analyzing matter(s), exploring boundaries, improving structures, lifting weights, mixing music, documenting reflections, cooking, and dancing.
