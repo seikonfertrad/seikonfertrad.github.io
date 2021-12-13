@@ -1,23 +1,22 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Just another boundedly rational information processing unit"
+excerpt: "A boundedly rational information processing unit"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Here, I want to increasingly collect all aspects of my~~self~~. 
 
-This website exists to increasingly collect my~~self~~. 
+I am excited about humanity getting its act together. If we play our cards right, the universe might be buzzing with unfathomably rich experience in the not-so-distant future.
 
-I care a lot about us humans getting our act together. If humanity plays its cards right, the universe could soon be buzzing with unfathomably rich experience(s).
+Civilization has come quite far in very little time. I believe the future will probably be wonderful. So let's make that even more probable. 
 
-I was quite ~~carefree~~a jerk until my last year of high school, when I went vegan for the wrong reasons. Looking for how to eat healthily landed me in various animal advocacy groups. Confronted with the everyday horrors people there shared, it dawned on me that I deeply care about life across species, space, and time. And about leveraging my privilege.
+**How did I end up here?**
+In my last year of high school, my nose for naïve moral superiority and social differentiation, paired with the desire to eat healthier, made me go vegan. Investigating animal sentience, it dawned on me that I could leverage my privilege better than playing social status games. Seeking friends with shared motivations, I encountered [effective altruism (EA)](https://en.wikipedia.org/wiki/Effective_altruism) in late 2013. Many rabbit holes later, I decided to dedicate my career to future generations.
 
-Seeking friends with shared motivations, I encountered [effective altruism (EA)](https://en.wikipedia.org/wiki/Effective_altruism) in late 2013. Many rabbit holes later, I decided to dedicate my career to future generations.
-
-Despite my current priority to mitigate looming existential risks, I am extremely excited about our civilization. We've come quite far in very little time. The future will probably be wonderful. So let's make that even more probable. 
-
+**What am I up to?**
 As of 2021, I'm working to [improve international risk governance](https://simoninstitute.ch/).
 
 From 2016 to 2020, I focused on building up the [Swiss EA ecosystem](https://effectivealtruism.ch/) and understanding my own path.
