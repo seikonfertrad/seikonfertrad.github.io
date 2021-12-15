@@ -21,7 +21,7 @@ In my last year of high school, my nose for naïve moral superiority and social 
 
 As of 2021, I'm working to [improve international risk governance](https://simoninstitute.ch/).
 
-From 2016 to 2020, I focused on building up the [Swiss EA ecosystem](https://effectivealtruism.ch/) and understanding my own path.
+From 2016 to 2020, I focused on understanding human potential and building up the [Swiss EA ecosystem](https://effectivealtruism.ch/).
 
 Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew up in Germany, with a 1-year stint in Tennessee; did many sports and played games.
 
