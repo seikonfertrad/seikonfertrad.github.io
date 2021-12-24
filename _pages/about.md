@@ -15,7 +15,7 @@ Civilization has come quite far in very little time. I believe the future will p
 
 **How did I end up here?**
 
-In my last year of high school, my nose for naïve moral superiority and social differentiation, paired with the desire to eat healthier, made me go vegan. Investigating animal sentience, it dawned on me that I could leverage my privilege for better things than social status games. Seeking friends with shared motivations, I encountered [effective altruism (EA)](https://en.wikipedia.org/wiki/Effective_altruism) in late 2013. Many rabbit holes later, I decided to dedicate my career to future generations.
+In my last year of high school, my nose for naïve moral superiority and social differentiation, paired with the desire to eat healthier, made me go vegan. Investigating animal sentience, it dawned on me that I could leverage my privilege for better things than climbing local social status ladders. Seeking friends with shared motivations, I encountered [effective altruism (EA)](https://en.wikipedia.org/wiki/Effective_altruism) in late 2013. Many rabbit holes later, I decided to dedicate my career to the wellbeing of future generations.
 
 **What am I up to?**
 
