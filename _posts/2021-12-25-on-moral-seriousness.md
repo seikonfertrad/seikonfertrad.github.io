@@ -1,7 +1,7 @@
 ---
-title: 'On moral seriousness and cooperation'
+title: 'Moral seriousness and cooperation'
 date: 2021-12-25
-permalink: /posts/2021/12/on-moral-seriousness/
+permalink: /posts/2021/12/moral-seriousness-and-cooperation/
 tags:
   - ethics
   - EA
