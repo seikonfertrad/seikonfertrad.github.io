@@ -1,7 +1,7 @@
 ---
-title: 'Harari´'s somewhat disappointing lessons from COVID'
+title: 'Harari's somewhat disappointing lessons from COVID'
 date: 2021-03-10
-permalink: /posts/2021/03/my-favorite-podcasts/
+permalink: /posts/2021/03/hararis-lessons-covid/
 tags:
   - policymaking
   - norms
