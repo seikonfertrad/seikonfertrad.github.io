@@ -1,6 +1,6 @@
 ---
 title: 'Moral seriousness and cooperation'
-date: 2021-12-25
+date: 2021-12-24
 permalink: /posts/2021/12/moral-seriousness-and-cooperation/
 tags:
   - ethics
