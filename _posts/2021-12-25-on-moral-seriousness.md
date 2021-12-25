@@ -8,6 +8,14 @@ tags:
   - coordination
 ---
 
+Andres Gomez Emilsson [writes](https://www.facebook.com/algekalipso/posts/4690951234330330):
+
+´´´quote
+I remain agnostic about whether Classical or Negative Utilitarianism is more "true". I do believe that there is a ground truth to be found, and that a fundamental understanding of valence will likely bring about this understanding. 
+
+But... candidly, my experience is that Negative Utilitarians (NUs) are more "morally serious" than Classical Utilitarians (CUs). [...]
+´´´
+
 I agree to some extent. I have learnt a great deal from being surrounded by negative-leaning consequentialists in the early days of EA Switzerland. They are unusually clear-headed.
 
 However, many of them also seem to get stuck in a self-fulfilling prophecy. They can become too focused on taking suffering seriously. So much so that I'd claim that some of them end up reducing the odds of an overwhelmingly good future.
