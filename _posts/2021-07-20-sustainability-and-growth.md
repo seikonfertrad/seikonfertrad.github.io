@@ -1,6 +1,6 @@
 ---
 title: 'Sustainability and growth'
-date: 2021-17-20
+date: 2021-07-20
 permalink: /posts/2021/07/sustainability-and-growth/
 tags:
   - economics
