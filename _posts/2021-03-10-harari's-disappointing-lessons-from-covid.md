@@ -5,6 +5,7 @@ permalink: /posts/2021/03/my-favorite-podcasts/
 tags:
   - policymaking
   - norms
+  - coordination
 ---
 
 I am somewhat disappointed by Yuval Noah Harari's [Lessons from a year of Covid](https://www.ft.com/content/f1b30f2c-84aa-4595-84f2-7816796d6841). He says many great things in the article but furthers a weird misconception of political decision-making.
