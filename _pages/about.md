@@ -25,4 +25,4 @@ From 2016 to 2020, I focused on understanding human potential and building up th
 
 Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew up in Germany, with a 1-year stint in Tennessee; did many sports and played games.
 
-When not working or modelling inter- and intrapersonal dynamics, I enjoy time with loved ones, analyzing matter(s), exploring boundaries, improving structures, lifting weights, mixing music, documenting reflections, cooking, and dancing.
+When not working or modelling inter- and intrapersonal dynamics, I enjoy time with loved ones, analyzing matter(s), exploring boundaries, improving structures, lifting weights, mixing music, documenting reflections, beauty, cooking, and dancing.
