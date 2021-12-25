@@ -1,5 +1,5 @@
 ---
-title: 'On moral seriousness'
+title: 'On moral seriousness and cooperation'
 date: 2021-12-25
 permalink: /posts/2021/12/on-moral-seriousness/
 tags:
