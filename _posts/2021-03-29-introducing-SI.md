@@ -1,5 +1,5 @@
 ---
-title: 'Introducing the Simon Institute for Longterm Governance (SI)'
+title: 'Introducing the Simon Institute for Longterm Governance'
 date: 2021-03-10
 permalink: /posts/2021/03/introducing-SI/
 tags:
