@@ -11,7 +11,7 @@ Our World in Data has created two great posts this year, highlighting how the of
 
 In [The economies that are home to the poorest billions of people need to grow if we want global poverty to decline substantially](https://ourworldindata.org/poverty-growth-needed), Max Roser points out that given our current wealth,
 
-> the average income in the world is int.-$16 per day
+> the average income in the world is 16 international dollars per day
 
 Which is far below what we'd think of as the poverty line in developed countries. This means that mere redistribution of what we have is insufficient - we'd all end up poor and unable to continue developing much further because we're too occupied with mere survival. 
 
