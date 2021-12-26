@@ -76,8 +76,6 @@ analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-<script data-goatcounter="https://konrads.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
 
 
 # Site Author
