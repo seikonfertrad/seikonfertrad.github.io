@@ -3,7 +3,7 @@ title: "Shut up or share? Three steps to combat misinformation"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-10-12-shut-up-or-share
-venue: "Bâtiment des Forces Motrices"
+venue: "TEDxUniGeneva"
 date: 2019-10-12
 location: "Geneva, CH"
 ---
