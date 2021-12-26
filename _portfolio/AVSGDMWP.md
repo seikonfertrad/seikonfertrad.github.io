@@ -1,6 +1,6 @@
 ---
 title: "A Very Short Guide to Decision-making on Wicked Problems"
-excerpt: "To build the future in a constantly changing environment, organizations strive for an ever-improving understanding of the world. Use this guide to understand how you and your team can tackle wicked problems by productively managing complexity.0.png'>"
+excerpt: "To build the future in a constantly changing environment, organizations strive for an ever-improving understanding of the world. Use this guide to understand how you and your team can tackle wicked problems by productively managing complexity"
 collection: portfolio
 ---
 
