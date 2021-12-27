@@ -15,7 +15,7 @@ Excited about contributing to humanity getting its act together, I want to colle
 
 As of 2021, I'm working to [improve international risk governance](https://simoninstitute.ch/).
 
-From 2016 to 2020, I focused on understanding human potential and building up the [Swiss EA ecosystem](https://effectivealtruism.ch/). Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew up in Germany, with a 1-year stint in Tennessee; did many sports and played games.
+From 2016 to 2020, I focused on understanding human potential and building up the [Swiss EA ecosystem](https://effectivealtruism.ch/). Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew up in Germany, with a 1-year stint in Tennessee; did many sports and played all sorts of games.
 
 When not working or modelling inter- and intrapersonal dynamics, I enjoy time with loved ones, analyzing matter(s), exploring boundaries, improving structures, lifting weights, mixing music, documenting reflections, aesthetics, cooking, and dancing.
 
