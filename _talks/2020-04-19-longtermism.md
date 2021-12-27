@@ -11,3 +11,5 @@ location: "Online"
 Unfortunately, the organizers didn't manage to get me an original recording of this introduction to longtermism. So [here's the French-interpreted version.](https://youtu.be/DWl7OTLjijA?t=5707) I start at 1:35:07.
 
 Here are the [slides and English speaker notes](https://docs.google.com/presentation/d/1KtLUk62lJg4MmQDl-f8zb63xizbgu4fv/), free to reuse. Many of the slides are adaptated from [Darius Meissner's talk on longtermism](https://www.youtube.com/watch?v=ZOODsjhYtyg).
+
+I gave this one because I figured there might be 1-2 people who would dig Longtermism. The talk went well but nobody got in touch afterward.
