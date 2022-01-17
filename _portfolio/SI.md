@@ -1,6 +1,6 @@
 ---
 title: "Simon Institute for Longterm Governance"
-excerpt: "My second nonprofit endeavour to improve civilizational resilience through public policy <br/><img src='/images/SI.png'>"
+excerpt: "My second nonprofit endeavour to improve civilizational resilience through public policy <br/><img src='/images/SI.jpg'>"
 collection: portfolio
 ---
 
