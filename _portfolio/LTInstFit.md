@@ -1,6 +1,6 @@
 ---
 title: "Policymaking for the Long-term Future: Improving Institutional Fit"
-excerpt: "My gang wrote a thing which more things to come will build up on. It's worth a look imho <br/><img src='/images/LTInstFit.png'>"
+excerpt: "Friends and I wrote a thing which more things to come will build up on. It's worth a look imho <br/><img src='/images/LTInstFit.png'>"
 collection: portfolio
 ---
 
