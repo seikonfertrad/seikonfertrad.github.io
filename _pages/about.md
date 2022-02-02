@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-Excited about contributing to humanity getting its act together, I want to collect my~~self~~ on here. If we play our cards right, the universe might soon be buzzing with unfathomably rich experience. Despite nature's brutal indifference, humanism has come far in little time. The future will probably be wonderful. Let's make that even more probable. 
+I am excited about contributing to humanity getting its act together and want to collect myself on here. [Humanism has come far in little time](https://ourworldindata.org/problems-and-progress). If we [play our cards right](https://www.youtube.com/watch?v=CrMIEz_mSJM), the future will be buzzing with [unfathomably rich experiences](https://www.nickbostrom.com/utopia.html). I hope to contribute to making that even more probable.
 
 **What I am up to**
 
 As of 2021, I'm working to [improve international risk governance](https://simoninstitute.ch/).
 
-From 2016 to 2020, I focused on understanding human potential and building up the [Swiss EA ecosystem](https://effectivealtruism.ch/). Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew up in Germany, with a 1-year stint in Tennessee; did many sports and played all sorts of games.
+From 2016 to 2020, I focused on understanding human potential - including my own - and building up the [Swiss EA ecosystem](https://effectivealtruism.ch/). Can't claim to have understood it all quite yet but I made progress. Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew up in Germany, with a 1-year stint in Tennessee; did many sports and played all sorts of games.
 
 When not working or modelling inter- and intrapersonal dynamics, I enjoy time with loved ones, analyzing matter(s), exploring boundaries, improving structures, lifting weights, mixing music, documenting reflections, aesthetics, cooking, and dancing.
 
