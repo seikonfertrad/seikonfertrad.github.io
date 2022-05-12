@@ -1,1 +1,11 @@
+---
+title: "A Computational Turn in Policy Process Studies: Coevolving Network Dynamics of Policy Change"
+excerpt: "Max and Isaak finished up a big chunk of thinking we did prior to founding SI. <br/><img src='/images/compturn.png'>"
+collection: portfolio
+---
 
+The past three decades of policy process studies have seen the emergence of a clear intellectual lineage. Implicitly or explicitly, scholars have employed complexity theory to examine the intricate dynamics of collective action in political contexts. However, the methodological counterparts to complexity theory, such as computational methods, are rarely used. Even when they are, they are often detached from established policy process theory. Building on a critical review of the application of complexity theory to policy process studies, we present and implement a baseline model of policy processes using the logic of coevolving networks. Our model suggests that an actor’s influence depends on (i) their environment and (2) on exogenous events facilitating dialogue and consensus-building. Our results validate previous opinion dynamics models and generate novel patterns. Our discussion provides ground for further research and outlines the path for the field to achieve a computational turn.
+
+[Check out the paper on the Complexity journal page.](https://www.hindawi.com/journals/complexity/2022/8210732/)
+
+If you're a social scientist looking to make your work more sound, I can highly recommend checking out [the supplemenary materials](https://www.hindawi.com/journals/complexity/2022/8210732/#supplementary-materials). We tried our best to make modelling more accessible.
