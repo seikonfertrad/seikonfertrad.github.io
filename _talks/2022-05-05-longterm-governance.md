@@ -8,4 +8,4 @@ date: 2022-05-05
 location: "Lausanne"
 ---
 
-I [present how the Simon Institute (SI) works to reduce existential risk via the UN system.](https://www.youtube.com/watch?v=O4oGOTyhdGg)
+I [give a first glimpse of how one might be able reduce existential risk via the UN system.](https://www.youtube.com/watch?v=O4oGOTyhdGg) Spoiler: it's mainly via international narratives and norms that affect national policymaking.
