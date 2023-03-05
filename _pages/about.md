@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am excited about contributing to humanity getting its act together and want to use this site to collect myself. [Humanism has come far in little time](https://ourworldindata.org/problems-and-progress). If we [play our cards right](https://www.youtube.com/watch?v=CrMIEz_mSJM), the future will be buzzing with [unfathomably rich experiences](https://www.nickbostrom.com/utopia.html). I hope to make that even more probable.
+I am excited about contributing to humanity getting its act together and want to use this site to collect myself. [Humanism has come far in little time](https://ourworldindata.org/problems-and-progress). If we [play our cards right](https://www.youtube.com/watch?v=CrMIEz_mSJM), the future will be buzzing with [unfathomably rich experiences](https://joecarlsmith.com/2021/01/18/actually-possible-thoughts-on-utopia). I hope to make that even more probable.
 
 **What I am up to**
 
