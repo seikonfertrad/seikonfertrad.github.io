@@ -21,7 +21,7 @@ However, many of them also seem to get stuck in a self-fulfilling prophecy. They
 
 They do so not by being willing to sacrifice Goodness - most take moral uncertainty very seriously, are super considerate and have impressive epistemics. But they do so simply by discounting all the goodness there is. I think this has become less of a problem the more mature we've all gotten but I keep observing it nonetheless.
 
-Discounting or even outright ignoring all the Goodness there *really* makes reality look very bleak, which results in more suffering.
+Discounting or even outright ignoring all the Goodness there *really is* makes reality look very bleak, resulting in more suffering.
 
 This strategy only makes sense if you think there will be exactly one discrete singularity through which you can set up all of the long-term future and that is independent of path dependencies. I think few actually think such is the case.
 
