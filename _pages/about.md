@@ -15,7 +15,7 @@ If we [play our cards right](https://www.youtube.com/watch?v=CrMIEz_mSJM), the f
 
 **What I am up to**
 
-As of 2024, our work is best framed as "frontier AI diplomacy".
+As of 2024, our work is best framed as "frontier AI diplomacy". My most alive side project is [FractalGVA](https://fractalgva.ch/).
 
 In 2021, I co-founded the Simon Institute for Longterm Governance to improve international preparedness for [rapid technological change](https://simoninstitute.ch/).
 
