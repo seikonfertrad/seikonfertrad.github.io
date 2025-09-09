@@ -21,7 +21,7 @@ In 2021, I co-founded the Simon Institute for Longterm Governance to improve int
 
 Before that, I helped build up the [Swiss EA ecosystem](https://effectivealtruism.ch/), tried to [model some](https://www.hindawi.com/journals/complexity/2022/8210732/) of the world, and [understand](https://konrads.link/posts/2019/11/my-favorite-podcasts/) human potential, including my own. Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew (up) in Germany, with a 1-year stint in Tennessee; did many sports and played all sorts of games.
 
-When not working, I nourish an intergenerational neighborhood campus, explore boundaries, lift weights, mix music, document reflections, eat, create, dance, and sleep.
+When not working, I explore the liminal, lift weights, mix music, document reflections, create, and dance.
 
 **How I ended up here**
 
