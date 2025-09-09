@@ -15,13 +15,13 @@ If we [play our cards right](https://www.youtube.com/watch?v=CrMIEz_mSJM), the f
 
 **What I am up to**
 
-As of 2024, our work is best framed as "frontier AI diplomacy". My most alive side project is [FractalGVA](https://fractalgva.ch/) - developing a walkable, intergenerational neighborhood campus right inside the city.
+As of 2024, [my work](https://simoninstitute.ch/) is best framed as frontier AI diplomacy. 
 
-In 2021, I co-founded the Simon Institute for Longterm Governance to improve international preparedness for [rapid technological change](https://simoninstitute.ch/).
+My most alive side project is [FractalGVA](https://fractalgva.ch/) - developing a walkable, intergenerational neighborhood campus right inside the city.
 
-Before that, I helped build up the [Swiss EA ecosystem](https://effectivealtruism.ch/), tried to [model some](https://www.hindawi.com/journals/complexity/2022/8210732/) of the world, and [understand](https://konrads.link/posts/2019/11/my-favorite-podcasts/) human potential, including my own. Before that, I failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew (up) in Germany, with a 1-year stint in Tennessee; did many sports and played all sorts of games.
+In the previous decade, I helped build up the [Swiss EA ecosystem](https://effectivealtruism.ch/), tried to [model some](https://www.hindawi.com/journals/complexity/2022/8210732/) of the world, and [understand](https://konrads.link/posts/2019/11/my-favorite-podcasts/) human potential, including my own. I also failed to sustain motivation for an undergrad in international relations; did a gap year as an au pair and snowboard instructor; grew (up) in Germany, with a 1-year stint in Tennessee; did many sports and played all sorts of games.
 
-When not working, I explore the liminal, lift weights, mix music, document reflections, create, and dance.
+When not working, I like to explore the liminal in high intensity intervals -- from exercise to creation, musing, and dancing.
 
 **How I ended up here**
 
